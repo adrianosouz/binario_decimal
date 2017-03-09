@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1427333417 source:c:\users\adriano  de sousa\desktop\projetos_c\binario_decimal\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cs50.h"
+
+1375724140 source:c:\users\adriano  de sousa\desktop\projetos_c\binario_decimal\cs50.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cs50.h"
+
+1375724148 c:\users\adriano  de sousa\desktop\projetos_c\binario_decimal\cs50.h
+	<float.h>
+	<limits.h>
+	<stdbool.h>
+	<stdlib.h>
+
